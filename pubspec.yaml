@@ -27,9 +27,13 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+# json解析
   build_runner: ^1.0.0
   json_serializable: ^2.0.0
-
+# 本地缓存
+  shared_preferences: ^0.5.3
+# 本地文件路径
+  path_provider: ^0.4.1
 
 
 # For informationon the generic Dart part of this file, see the
