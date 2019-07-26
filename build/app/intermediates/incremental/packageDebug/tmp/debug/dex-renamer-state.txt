@@ -1,0 +1,4 @@
+#Fri Jul 26 00:09:40 CST 2019
+base.0=/Users/hobson/Documents/sourceCode/uimaster_flutter/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
